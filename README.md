@@ -1,6 +1,6 @@
 # ⚡ Electric Vehicle Population Analysis — Tableau
 
-![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue)
+![Tableau]([https://img.shields.io/badge/Tableau-Analytics-blue](https://github.com/athupatil7319/Electric-Vehicle-Analytics-Tableau-/blob/main/Screenshots/Dashboard-Overview.png)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EV%20Analytics-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
