@@ -1,12 +1,12 @@
 # ⚡ Electric Vehicle Population Analysis — Tableau
 
-![Tableau]([https://img.shields.io/badge/Tableau-Analytics-blue](https://github.com/athupatil7319/Electric-Vehicle-Analytics-Tableau-/blob/main/Screenshots/Dashboard-Overview.png)
+![Tableau](https://github.com/athupatil7319/Electric-Vehicle-Analytics-Tableau-/blob/main/Screenshots/Dashboard-Overview.png)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EV%20Analytics-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📊 Dashboard Preview
 
-![Electric Vehicle Dashboard](Screenshots/dashboard.png)
+![Electric Vehicle Dashboard](https://github.com/athupatil7319/Electric-Vehicle-Analytics-Tableau-/blob/main/Screenshots/Dashboard-Overview.png)
 
 ---
 
